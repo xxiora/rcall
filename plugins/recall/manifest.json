@@ -1,0 +1,15 @@
+{
+  "format": 1,
+  "id": "community.revenge-recall",
+  "name": "Revenge Recall",
+  "description": "Save messages from the message menu and find them again later.",
+  "author": "Your Name",
+  "version": "0.1.0",
+  "dependencies": {
+    "revenge.api": { "version": ">=1" },
+    "discord": { "version": "*" }
+  },
+  "dist": {
+    "script": "index.js"
+  }
+}
